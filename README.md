@@ -75,7 +75,7 @@ El flow debera verse como el flow de la siguiente imagen
 
 Entra a [http://localhost:1880/ui](http://localhost:1880/ui/#!/0?socketid=OGWdowKrOPcSz4pfAAAD) para ver el Dashboard
 
-![resultados en el Dashboard]([https://github.com/davidGalaviz/Flow5-NodeRed/blob/main/flow5climaPublico.png](https://github.com/hugoescalpelo/flow5-NodeRed-ClimaAPI/blob/main/Imagenes/Dashboard.png))
+![resultados en el Dashboard](https://github.com/hugoescalpelo/flow5-NodeRed-ClimaAPI/blob/main/Imagenes/Dashboard.png))
 
 ## Evidencias
 
